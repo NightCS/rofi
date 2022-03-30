@@ -16,4 +16,4 @@ git clone https://github.com/NightCS/rofi.git rofi
 mv rofi $HOME/.config
 ```
 
-DOne!
+Done!
