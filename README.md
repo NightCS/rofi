@@ -17,3 +17,15 @@ mv rofi $HOME/.config
 ```
 
 Done!
+
+## Note
+
+If you want you can use the sidebar style too, simply replace the content of `config.rasi` to this:
+
+```
+@theme "themes/sidebar-rxyhn.rasi"
+```
+
+> How it looks:
+
+![demonstration-sidebar](./misc/demonstration-sidebar.png)
